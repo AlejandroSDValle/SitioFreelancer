@@ -1,0 +1,23 @@
+[33mcommit e9de594ab86bbaca171ab055ad07e375cd260c21[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Alejandro Santillan <alejandro_santillan_2000@hotmail.com>
+Date:   Mon Jan 9 22:28:35 2023 -0600
+
+    Se estructuro el HTML
+
+[33mcommit 02c1ca39ecefe373a6047dc350e36304dfec40d5[m
+Author: Alejandro Santillan <alejandro_santillan_2000@hotmail.com>
+Date:   Mon Jan 9 22:20:48 2023 -0600
+
+    Agregamos textos de html
+
+[33mcommit 3541509126bd7aff03e260dc7fbbfd9523fcdabe[m
+Author: Alejandro Santillan <alejandro_santillan_2000@hotmail.com>
+Date:   Mon Jan 9 22:08:55 2023 -0600
+
+    se agregaron los archivos para la pagina
+
+[33mcommit 132be6550fb84af9d5781343b61840bbd9cbc256[m
+Author: AlejandroSDValle <107733622+AlejandroSDValle@users.noreply.github.com>
+Date:   Mon Jan 9 20:29:52 2023 -0600
+
+    Initial commit
